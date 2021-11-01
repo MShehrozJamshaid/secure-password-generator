@@ -1,1 +1,1 @@
-password pending 0 Add strength meter calculation based on length and variety
+password pending 1 fix: improve randomness with crypto.getrandomvalues for security at night
